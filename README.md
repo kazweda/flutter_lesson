@@ -1,6 +1,7 @@
 # flutter_lesson
 
 A new Flutter project.
+https://docs.flutter.dev/get-started/install/macos/mobile-ios
 
 ## Getting Started
 
